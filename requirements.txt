@@ -1,0 +1,8 @@
+tigramite
+numpy
+pandas
+matplotlib
+statsmodels
+scikit-learn
+xlrd
+jupyter
